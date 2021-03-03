@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "KoTH",
+"productVersion": "0.1",
+"dataUrl": "KoTH_Game.data.unityweb",
+"wasmCodeUrl": "KoTH_Game.wasm.code.unityweb",
+"wasmFrameworkUrl": "KoTH_Game.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.18f1"
+}
